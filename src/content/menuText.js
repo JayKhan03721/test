@@ -5,7 +5,7 @@ const english = {
 };
 
 const french = {
-  title: "Bienvenue, Safraz",
+  title: "Joyeux anniversaire, Safraz",
   languageIndication:
     "Pesez sur F pour alterner entre le francais et l'anglais",
   playIndication: "Pesez sur la touche Entrer pour commencer le jeu",
